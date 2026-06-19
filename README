@@ -1,0 +1,38 @@
+# RevMate Garage - Vehicle Service Booking System
+
+RevMate Garage is a web-based vehicle service booking platform developed using Flask. The system allows users to book vehicle service appointments, select service locations, and manage booking details through a simple and user-friendly interface.
+
+## Features
+- Online vehicle service booking
+- State, city, and location selection
+- Unique booking ID generation
+- Appointment management
+- Customer information management
+- Responsive user interface
+- Service confirmation page
+
+## Technologies Used
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- CSV File Storage
+
+## Modules
+### User Module
+- Service booking
+- Customer details management
+- Appointment confirmation
+
+### Booking Module
+- Booking ID generation
+- Service scheduling
+- Appointment tracking
+
+### Admin Module
+- View booking records
+- Manage customer appointments
+
+## Objective
+To simplify vehicle service scheduling by providing an efficient online booking platform that improves customer convenience and garage management operations.
